@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461267557 source:c:\users\opens\documents\github\comp271-hw5-oep\comp271-hw5\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<stdlib.h>
+
